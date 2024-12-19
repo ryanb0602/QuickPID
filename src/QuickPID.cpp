@@ -7,6 +7,8 @@
 
 #include "QuickPID.h"
 
+#include <Arduino.h>
+
 QuickPID::QuickPID() {}
 
 /* Constructor ********************************************************************
